@@ -10,6 +10,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img width=57% src="https://i.imgur.com/8MupZHY.gif" />
+</div>
+  
+<br> 
 <h2 align="center">Hi there, I'm Borhan ✌</h2>
 
 <p align="center">
