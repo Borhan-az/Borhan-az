@@ -44,7 +44,6 @@ Here are some ideas to get you started:
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJs" width="55" height="55" />
 </p>
 
-- 📃 I blog here: <a href="https://virgool.io/@borhanaz1379">Virgol</a>
 - 💬 Ask me about: .NET, JS , DesignPatterns, CleanArchitecture, ModularMonolith , DDD 
  - 📫 How to reach me: Borhanaz1379@gmail.com
 - 👯 I’m looking to collaborate on: .NET projects
