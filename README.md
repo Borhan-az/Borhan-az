@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 
 - 💬 Ask me about: .NET, JS , DesignPatterns, CleanArchitecture, ModularMonolith , DDD 
- - 📫 How to reach me: Borhanaz1379@gmail.com
+ - 📫 How to reach me: Borhan.Azhdari@gmail.com
 - 👯 I’m looking to collaborate on: .NET projects
 
 </br>
