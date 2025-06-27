@@ -15,9 +15,6 @@ Here are some ideas to get you started:
   <img width=52% src="https://media.tenor.com/1RlgYVsgxA0AAAAM/samurai-ronin.gif" />
 </div>
   
-<br> 
-<h2 align="center">Hi there, I'm Borhan</h2>
-
 <!--
 <p align="center"> 
  <strong>
