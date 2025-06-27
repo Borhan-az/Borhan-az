@@ -39,9 +39,6 @@ Here are some ideas to get you started:
 </p>
 -->
 
-- 📫 How to reach me: Borhan.Azhdari@gmail.com
-- 👯 I’m looking to collaborate on: .NET projects
-
 </br>
 <!--
 <p align="Center">
